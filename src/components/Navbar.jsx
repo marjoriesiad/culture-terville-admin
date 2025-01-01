@@ -15,8 +15,10 @@ export default function Navbar() {
         <Link href="/">Clients</Link>
         <Link href="/">Produits</Link>
         <Link href="/">Ventes</Link>
+        <Link href="/">Outils</Link>
         <Link href="/"><LuLogOut /></Link>
       </nav>
     </div>
+    
   );
 }
