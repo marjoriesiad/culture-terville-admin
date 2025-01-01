@@ -16,6 +16,7 @@ export default function Home() {
             <DashboardCard category="Produits" content="46 produits en ligne" />
             <DashboardCard category="Ventes" content="1576 ventes effectuées" />
             <DashboardCard category="€ Total" content="12 589€" />
+            <DashboardCard category="Outils" content="Des outils bien pratiques" className="md:col-span-2" />
           </div>
         </div>
 
